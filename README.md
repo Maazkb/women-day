@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 💐Resource flowers gift website for someone
 
 # Flowers for Someone 🌸
@@ -26,3 +27,5 @@ This project utilizes the following programming languages and technologies:
 To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine:
+# women-day
+>>>>>>> 301ac4e379ec3bb3643bb03b4cb83394c67ec5f6
